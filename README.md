@@ -13,9 +13,8 @@ klicken Sie auf das Bild für Wiedergabe/Pause
 Neue Version 1.2
 
 -kleine Bugfixes
-
-Neue Funktion Mediensteuerungstasten
-Neues Design
+- Neue Funktion Mediensteuerungstasten
+- Neues Design
 
 ---------------------------------------------------------------
 
