@@ -8,6 +8,15 @@ https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdli
 
 klicken Sie auf das Bild für Wiedergabe/Pause
 
+--------------------------------------------------------------
+
+Neue Version 1.2
+
+-kleine Bugfixes
+
+Neue Funktion Mediensteuerungstasten
+Neues Design
+
 ---------------------------------------------------------------
 
 Neue Version 1.1
