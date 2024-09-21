@@ -12,7 +12,7 @@ Note: Spotify macht aktuell Probleme
 
 --------------------------------------------------------------
 
-NNeue Version 1.2.1
+Neue Version 1.2.1
 
 - Funktion Bugfixes
 - Leistung Optimierung 
@@ -24,3 +24,6 @@ Version 1.2
 - Neues Design 
 ---------------------------------------------------------------------
 Version 1.1
+
+- kleine Bugfixes
+- Neue Funktion des automatischen Ausblendens, wenn keine Musik abgespielt wird
