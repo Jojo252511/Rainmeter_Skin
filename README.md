@@ -12,14 +12,15 @@ Note: Spotify macht aktuell Probleme
 
 --------------------------------------------------------------
 
-Neue Version 1.2
+NNeue Version 1.2.1
+
+- Funktion Bugfixes
+- Leistung Optimierung 
+---------------------------------------------------------------------
+Version 1.2
 
 - kleine Bugfixes
-- Neue Funktion Mediensteuerungstasten
-- Neues Design
-
----------------------------------------------------------------
-
-Neue Version 1.1
-- kleine Bug fixes
-- neue Funktion des Automatischem ausblendens wenn keine Musik abgespielt wird
+- Neue Funktion Medien Steuerungstasten
+- Neues Design 
+---------------------------------------------------------------------
+Version 1.1
