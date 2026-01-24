@@ -24,7 +24,7 @@ A modern, minimalist Rainmeter skin designed for a seamless desktop experience. 
 
 ## Installation
 
-1. Download the latest `MyMusicPlayer_1.2.1.rmskin`.
+1. Download the latest `MyMusicPlayer_1.3.0.rmskin`.
 2. Double-click the file to install it via the Rainmeter Skin Installer.
 3. Ensure the browser extension is active and music is playing in a supported tab.
 
